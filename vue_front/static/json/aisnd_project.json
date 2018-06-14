@@ -1,0 +1,119 @@
+{
+    "name": "AISND",
+    "children": [
+     {
+      "name": "研究計畫",
+      "children": [
+        {
+            "name":"電機系",
+            "size":12,
+            "contain":[
+              {"teacher":"楊竹星老師"},
+              {"teacher":"陳中和老師"},
+              {"teacher":"莊智清老師"},
+              {"teacher":"楊家輝老師"},
+              {"teacher":"王駿發老師"},
+              {"teacher":"王醴老師"},
+              {"teacher":"盧達生老師"},
+              {"teacher":"王振興老師"},
+              {"teacher":"邱瀝毅老師"},
+              {"teacher":"詹寶珠老師"},
+              {"teacher":"張簡樂仁老師"},
+              {"teacher":"陳立祥老師"}
+            ]
+        },
+        {
+            "name":"資工系",
+            "size":4,
+            "contain":[
+              {"teacher":"連震杰老師"},
+              {"teacher":"孫永年老師"},
+              {"teacher":"胡敏君老師"},
+              {"teacher":"高宏宇老師"}
+            ]
+        },
+        {
+            "name":"物理系",
+            "size":1,
+            "contain":[
+              {"teacher":"游輝樟老師"}
+            ]
+        }
+    ]
+    },
+    {
+        "name": "教學計畫",
+        "children": [
+          {"name":"統計系",
+            "size":2,
+            "contain":[
+              {"teacher":"陳瑞彬老師"},
+              {"teacher":"鄭順林老師"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "產學合作計畫",
+        "children": [
+          {
+              "name":"奈米中心",
+              "size":1,
+              "contain":[
+                {"teacher":"謝伯宗老師"}
+              ]
+          }
+        ]
+      },
+      {
+        "name": "專案處理",
+        "children": [
+          {
+              "name":"成大醫院",
+              "size":2,
+              "contain":[
+                {"teacher":"林政佑醫生"},
+                {"teacher":"林裕晴醫生"}
+              ]
+          },
+          {
+              "name":"台南市府",
+              "size":1,
+              "contain":[
+                {"teacher":"台南黑客松"}
+              ]
+          },
+          {
+            "name":"測量系",
+            "size":1,
+            "contain":[
+              {"teacher":"饒見有老師"}
+            ]
+          },
+          {
+            "name":"Fintech商創中心",
+            "size":1,
+            "contain":[
+              {"teacher":"顏盟峯老師"}
+            ]                  
+          },
+          {
+            "name":"生科系",
+            "size":2,
+            "contain":[
+              {"teacher":"蔡文杰老師"}
+            ]  
+          },
+          {
+            "name":"台南市交通大隊 交通局 研考會 智慧發展中心",
+            "size":1        
+          },
+          {
+            "name":"體育健康與休閒研究所",
+            "size":1             
+          }
+        ]
+      }
+]
+}
+

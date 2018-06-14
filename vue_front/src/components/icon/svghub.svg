@@ -1,0 +1,66 @@
+
+    <svg style="display:none">
+        <def>
+            <symbols width="35" height="29">
+                <title>userdata</title>
+                <g id="userdata" >
+                    <rect y="25.74" width="35.38" height="4.01"/>
+                    <rect x="2" y="16.63" width="8.38" height="9.88"/>
+                    <rect x="14" width="8.38" height="26.5"/>
+                    <rect x="26.13" y="9.13" width="8.38" height="17.38"/>
+                </g>
+            </symbols>
+            <symbols width="35" height="32">
+                <title>systemdata</title>
+                <g id="systemdata">
+                    <path d="M18,6a12.5,12.5,0,1,0,12.5,12.5A12.5,12.5,0,0,0,18,6Zm0,20.21a7.72,7.72,0,1,1,7.72-7.71A7.71,7.71,0,0,1,18,26.16Z" transform="translate(-1.27 -1.12)"/>
+                    <rect x="14.75" width="3.92" height="6.33"/><rect x="6.39" y="5.21" width="3.92" height="6.33" transform="translate(-4.75 7.24) rotate(-45)"/>
+                    <rect x="2.48" y="14.92" width="3.92" height="6.33" transform="translate(-14.92 21.4) rotate(-90)"/>
+                    <rect x="6.57" y="24.54" width="3.92" height="6.33" transform="translate(-6.3 52.21) rotate(-135)"/>
+                    <rect x="16.27" y="28.45" width="3.92" height="6.33" transform="translate(35.2 62.12) rotate(-180)"/>
+                    <rect x="25.9" y="24.36" width="3.92" height="6.33" transform="translate(65.75 26.17) rotate(135)"/>
+                    <rect x="29.81" y="14.66" width="3.92" height="6.33" transform="translate(48.32 -15.07) rotate(90)"/>
+                    <rect x="25.72" y="5.03" width="3.92" height="6.33" transform="translate(12.63 -18.29) rotate(45)"/>
+                </g>
+            </symbols>
+            <symbols>
+                <title>cpuIcon</title>
+                <g id="cpuIcon">
+                    <rect x="9" y="9" width="19" height="19" rx="2" ry="2"/>
+                    <rect x="13.75" width="2" height="7" rx="1" ry="1"/>
+                    <rect x="17.75" width="2" height="7" rx="1" ry="1"/>
+                    <rect x="21.75" width="2" height="7" rx="1" ry="1"/>
+                    <rect x="33.5" y="11.5" width="2" height="7" rx="1" ry="1" transform="translate(48.5 -20.5) rotate(90)"/>
+                    <rect x="33.5" y="15.5" width="2" height="7" rx="1" ry="1" transform="translate(52.5 -16.5) rotate(90)"/>
+                    <rect x="33.5" y="19.5" width="2" height="7" rx="1" ry="1" transform="translate(56.5 -12.5) rotate(90)"/>
+                    <rect x="3.5" y="11.5" width="2" height="7" rx="1" ry="1" transform="translate(18.5 9.5) rotate(90)"/>
+                    <rect x="3.5" y="15.5" width="2" height="7" rx="1" ry="1" transform="translate(22.5 13.5) rotate(90)"/>
+                    <rect x="3.5" y="19.5" width="2" height="7" rx="1" ry="1" transform="translate(26.5 17.5) rotate(90)"/>
+                    <rect x="23" y="30" width="2" height="7" rx="1" ry="1" transform="translate(47 66) rotate(180)"/>
+                    <rect x="19" y="30" width="2" height="7" rx="1" ry="1" transform="translate(39 66) rotate(180)"/>
+                    <rect x="15" y="30" width="2" height="7" rx="1" ry="1" transform="translate(31 66) rotate(180)"/>
+                </g>
+            </symbols>
+            <symbols>
+                <title>ramIcon</title>
+                <g id="ramIcon">
+                    <path d="M11,8.7h15c1.1,0,2,0.5,2,1.2v9.2c0,0.7-0.9,1.2-2,1.2H11c-1.1,0-2-0.5-2-1.2V9.9C9,9.2,9.9,8.7,11,8.7z"/>
+                    <path d="M13.1,5.6L13.1,5.6c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C12.1,6.1,12.6,5.6,13.1,5.6z"/>
+                    <path d="M17.1,5.6L17.1,5.6c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C16.1,6.1,16.6,5.6,17.1,5.6z"/>
+                    <path d="M21.1,5.6L21.1,5.6c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C20.1,6.1,20.6,5.6,21.1,5.6z"/>
+                    <path d="M24.4,5.6L24.4,5.6c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C23.4,6.1,23.8,5.6,24.4,5.6z"/>
+                    <path d="M13.1,16.1L13.1,16.1c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C12.1,16.6,12.6,16.1,13.1,16.1z"/>
+                    <path d="M17.1,16.1L17.1,16.1c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C16.1,16.6,16.6,16.1,17.1,16.1z"/>
+                    <path d="M21.1,16.1L21.1,16.1c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C20.1,16.6,20.6,16.1,21.1,16.1z"/>
+                    <path d="M24.4,16.1L24.4,16.1c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5C23.4,16.6,23.8,16.1,24.4,16.1z"/>
+                </g>
+            </symbols>
+        </def>
+    </svg>
+
+
+
+
+
+
+
